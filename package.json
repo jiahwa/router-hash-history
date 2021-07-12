@@ -1,0 +1,26 @@
+{
+  "name": "router-hash-history",
+  "version": "0.0.1",
+  "description": "Hash mode &amp; history mode in router",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm run serve",
+    "serve": "router-service serve",
+    "build": "router-service build",
+    "lint": "router-service lint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jiahwa/router-hash-history.git"
+  },
+  "keywords": [
+    "frame",
+    "mode"
+  ],
+  "author": "jiahwa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jiahwa/router-hash-history/issues"
+  },
+  "homepage": "https://github.com/jiahwa/router-hash-history#readme"
+}
