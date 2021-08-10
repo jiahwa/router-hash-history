@@ -3,9 +3,9 @@
     Hello, world!
     <br>
     <router-link to="/home">home</router-link>&nbsp;&nbsp;
-    <router-link to="/about">about</router-link>
+    <router-link to="/about">about</router-link> <!-- {1} -->
     <!-- router-view 全局组件 -->
-    <router-view></router-view>
+    <router-view></router-view> <!-- {2} -->
   </div>
 </template>
 
