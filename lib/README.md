@@ -1,5 +1,5 @@
 # vue-router
-简历路由实现了以下；
+路由实现了以下；
 
 路由：两种模式 hash & history
 
